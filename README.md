@@ -1,5 +1,4 @@
 # TreesPlanted-Counter
-# Tree Planted Counter App
 
 ## Overview
 The **Tree Planted Counter App** is a simple web-based application that allows users to track the number of trees they have planted. The app features a clean, minimalist UI with a counter mechanism that enables users to increment the count of trees planted and save the progress.
