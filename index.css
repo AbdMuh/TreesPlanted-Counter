@@ -1,0 +1,57 @@
+body {
+    background-image: url("background.png");
+    background-size: cover;
+    font-family: "Happy Monkey", system-ui;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #C67146;
+}
+
+#save-btn {
+    background: #899B68;
+}
+
+.window {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ /* Ensures full-screen height for centering */
+
+}
+
+
+
+.counter {
+    max-width: 350px;
+    background-color: rgba(255, 228, 196, 0.7); /* Transparent background */
+    border-radius: 10%; 
+    text-align: center; /* Align content */
+    padding: 15px 10px; /* Add padding for better spacing */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Optional shadow for better look */
+}
+
+
